@@ -2,8 +2,8 @@
 <app>
 <name>TF</name>
 <gpu_versions>
-<gpu_usage>.25</gpu_usage>
-<cpu_usage>.25</cpu_usage>
+<gpu_usage>.1</gpu_usage>
+<cpu_usage>.1</cpu_usage>
 </gpu_versions>
 </app>
 </app_config>
