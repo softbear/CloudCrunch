@@ -1,2 +1,2 @@
-boinc
 boinc-client
+virtualbox
