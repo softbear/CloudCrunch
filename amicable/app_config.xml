@@ -2,8 +2,7 @@
 <app>
 <name>amicable_10_21</name>
 <gpu_versions>
-<gpu_usage>.5</gpu_usage>
-<cpu_usage>.5</cpu_usage>
+<gpu_usage>1</gpu_usage>
 </gpu_versions>
 </app>
 </app_config>
